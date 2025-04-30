@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 struct Team {
     char name[50];
